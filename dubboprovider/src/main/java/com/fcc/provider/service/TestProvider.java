@@ -13,7 +13,7 @@ public class TestProvider implements TestDubboFacade {
     @Override
     public void test(){
         //test1
-        //test
+        //test1
 
         System.out.println("TestProvider被调用");
     }
