@@ -17,6 +17,8 @@ public class TestProvider implements TestDubboFacade {
 
         //test
         //test
+
+
         System.out.println("TestProvider被调用");
     }
 }
