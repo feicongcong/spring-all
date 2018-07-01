@@ -12,7 +12,9 @@ import com.fcc.dubboapi.TestDubboFacade;
 public class TestProvider implements TestDubboFacade {
     @Override
     public void test(){
+
         //test
+
 
         System.out.println("TestProvider被调用");
     }
